@@ -9,7 +9,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        white: 'hsl(0, 0%, 100%)',
         lightGray: 'hsl(212, 45%, 89%)',
         grayishBlue: 'hsl(220, 15%, 55%)',
         darkBlue: 'hsl(218, 44%, 22%)',
@@ -21,7 +20,6 @@ module.exports = {
         paragraph: '15px',
       },
       screens: {
-        desktop: '1440px',
         mobile: '375px',
       }
     },
