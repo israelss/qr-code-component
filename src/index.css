@@ -4,5 +4,12 @@
 
 @font-face {
   font-family: 'Outfit';
-  src: url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+  font-weight: 400;
+  src: url('./assets/fonts/Outfit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Outfit';
+  font-weight: 700;
+  src: url('./assets/fonts/Outfit-Bold.ttf') format('truetype');
 }
